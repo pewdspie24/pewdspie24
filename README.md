@@ -8,7 +8,7 @@
 <!-- TODO: Add last video link -->
 
 - :seedling: I’m currently working on Computer Vision field.
-- :computer: Mainly use PyTorch framework.
+- :computer: Mainly use PyTorch framework for researching and Tensorflow for production.
 - :speech_balloon: Ask me about anything.
 - 😄 Welcome to my Github Pages xD
 
